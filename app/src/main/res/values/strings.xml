@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AutoCompleteTextview</string>
+    <string name="select_month">Select Month</string>
+    <string name="show_input">show Input</string>
+
+    <string-array name="ListOfMonth">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+    </string-array>
+</resources>
